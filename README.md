@@ -18,3 +18,6 @@ To run the project locally, follow these steps:
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
+
+
+<img width="355" alt="Ekran Resmi 2024-02-12 10 28 38" src="https://github.com/yarengokhn/amphibiansProject/assets/99669248/ebb6c985-92b3-46e5-840e-6479e37ec42f">
